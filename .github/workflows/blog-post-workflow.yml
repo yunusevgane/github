@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every month
-    - cron: '0 0 1 * *'
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/malibayram91,https://www.gautamkrishnar.com/feed/"
+          feed_list: "https://dev.to/feed/yunusevgane,https://www.gautamkrishnar.com/feed/"
