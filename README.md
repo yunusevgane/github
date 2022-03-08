@@ -4,11 +4,11 @@
 <h3>Latest YouTube Videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Konuşmayı Engelleyen Cihazı TRT SPİKERİ ile test ettim #shorts](https://www.youtube.com/watch?v=XbhAcI7iihs)
 - [Konuşmayı Engelleyen Cihaz Yapımı ft. Orkun Işıtmak](https://www.youtube.com/watch?v=yzIRj25MUug)
 - [Zombi Iron Man Heykeli Yapımı - Part 2: Beton Yetecek Mi?](https://www.youtube.com/watch?v=U2fkM-e7NwI)
 - [Atölyemdeki gizemli radyoaktif madde #shorts](https://www.youtube.com/watch?v=5dHH4tCZ0_Q)
 - [Hoşgeldin zombi-ironman-tolga bebek 👶🏻 #shorts](https://www.youtube.com/watch?v=sNvRcHugWPw)
-- [Betondan Zombi Iron Man Heykelimi Yapıyoruz - Part 1: Silikon Yetecek Mi?](https://www.youtube.com/watch?v=DfJR9CdvS40)
 <!-- YOUTUBE:END -->
 
 - 🌱 I’m currently learning **Tensorflow, Swift, Flutter, Angular**
