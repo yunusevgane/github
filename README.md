@@ -4,11 +4,11 @@
 <h3>Latest YouTube Videos</h3>
 
 <!-- YOUTUBE:START -->
+- [İnternete Bağlanmış Bir Bitki: Suku #shorts](https://www.youtube.com/watch?v=4ulqwRAqjLs)
 - [Thor&#39;un Kaldırılamayan Çekici Yapımı &lpar;Elektromanyetik Mjolnir&rpar;](https://www.youtube.com/watch?v=kCC1zaSbdAU)
 - [Elektromanyetik Mjolnir &lpar;Thor&#39;un Çekici&rpar; #shorts](https://www.youtube.com/watch?v=QuvQ0QoxHE4)
 - [6.000TL&#39;ye Bir Robot Kol Yaptım &lpar;Ve Jarvis&#39;e Bağladım&rpar;](https://www.youtube.com/watch?v=OvImX71rMhQ)
 - [Robot Kol İle Sonsuz 3d Baskı Almak? #shorts](https://www.youtube.com/watch?v=JLB1lhjqyac)
-- [Ses komutu ile kapanan kapı?? #shorts](https://www.youtube.com/watch?v=EI2lHhfs3bs)
 <!-- YOUTUBE:END -->
 
 - 🌱 I’m currently learning **Tensorflow, Swift, Flutter, Angular**
